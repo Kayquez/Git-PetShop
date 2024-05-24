@@ -42,11 +42,35 @@ nav a:hover{
 
 }
 
+form{
+    width: 380px;
+}
+
+form input,
+form textarea {
+    width: 100%;
+    border: 1px solid #6dd432;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+iframe {
+    width: 100%;
+}
+
+h2 {
+    text-transform: uppercase;
+    margin-bottom: 15px;
+}
 
 #itemcontato{
     background-image: none;
     padding-right:0;
     margin-right:0;
+}
+#produto .flex-conteiner, #contato .flex-conteiner {
+    margin-top: 45px;
 }
 
 .fundo-verde {
