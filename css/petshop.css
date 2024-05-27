@@ -120,3 +120,14 @@ h2 {
     color: #000;
     border-radius: 5px;
 }
+h6 {
+    text-align: center;
+    font-size: small;
+    margin-bottom: 30px;
+    
+}
+hr{
+    margin-bottom: 40px;
+    border-top: 1px solid #6dd432;
+    
+}
